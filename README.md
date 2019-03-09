@@ -4,7 +4,7 @@
 
 For my research project, I plan to explore various factors and conditions leading to spikes in gun violence in major American cities. To explore this issue, I begin with a gun violence .csv dataset pulled from Kaggle (https://www.kaggle.com/jameslko/gun-violence-data) and originally compiled by James Ko using data from www.gunviolencearchive.org. The data includes over 260,000 gun violence incidents in the U.S. from 2013-2018, which provide an adequate sample through which I hope to draw important inferences and identify factors relevant to gun violence frequency. 
 
-The codebook and variable descriptions can be found at the aforementioned Kaggle URL, but for convenience, I have also included the codebook as an .xlsx file, which can be found in the RAWDATA file of this repository.
+The codebook and variable descriptions can be found at the aforementioned Kaggle URL, but for convenience, I have also included the codebook as an .xlsx file, which can be found in the RAWDATA folder of this repository.
 
 ### Economic Influence
 
